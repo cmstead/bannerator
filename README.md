@@ -13,7 +13,7 @@ Use NPM to install this package:
 Bannerator is a small, simple output utility.  Below is an example of how to use the entire system.
 
 ```javascript
-const bannerator = require('bannerator').getBannerator();
+const bannerator = require('bannerator').buildBannerator();
 
 bannerator.setBannerText([
     'Don\'t forget to commit your changes!',
