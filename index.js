@@ -39,7 +39,9 @@ Bannerator.prototype = {
         const bannerSurroundValue = this.buildBannerSurroundValue();
 
         console.log(bannerSurroundValue);
+        console.log('');
         console.log(bannerItem);
+        console.log('');
         console.log(bannerSurroundValue);
     }
 };
