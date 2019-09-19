@@ -1,6 +1,6 @@
 {
   "name": "bannerator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Random banner text display for script and CLI tool output",
   "main": "index.js",
   "scripts": {
