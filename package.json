@@ -1,0 +1,17 @@
+{
+  "name": "bannerator",
+  "version": "1.0.0",
+  "description": "Random banner text display for script and CLI tool output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "banner",
+    "random-text",
+    "cli",
+    "scripting"
+  ],
+  "author": "Chris Stead",
+  "license": "MPL-2.0"
+}
